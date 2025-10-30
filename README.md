@@ -7,3 +7,4 @@
 
 - `unique_universities.csv`：分析対象とした国内大学のリスト（45校）
 - `unique_international_universities.csv`：分析対象とした海外大学のリスト（10校）
+- `シラバス一覧`：分析対象とした大学のソフトウェア工学関連講義と，それぞれの講義が網羅しているSWEBOK知識領域と該当するシラバス中のキーワード
